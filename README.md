@@ -41,6 +41,6 @@ Exploratory Data Analysis (EDA)
 
 Data visualization and insight generation
 
-* Conclusion:-
+Conclusion:-
 
 This project helped in understanding how Netflix’s content library has evolved and what kind of content resonates most with viewers. The findings can be used as a foundation for future projects such as recommendation systems or content popularity prediction models.
