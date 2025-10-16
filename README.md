@@ -1,10 +1,10 @@
 # Netflix Data Analysis
 
-* Overview:-
+**Overview:-**
 
-This project focuses on analyzing a Netflix dataset to explore patterns and insights related to movies and TV shows available on the platform. The main objective was to understand Netflix’s content trends, audience preferences, and growth over the years using data cleaning, preprocessing, and visualization techniques.
+This project focuses on analyzing a Netflix dataset to explore patterns and insights related to movies and TV shows available on the platform. The main objective was to understand Netflix’s content trends,       audience preferences, and growth over the years using data cleaning, preprocessing, and visualization techniques.
 
-* Dataset Information:-
+Dataset Information:-
 
 No missing values or duplicate records were found.
 
@@ -18,7 +18,7 @@ The Vote_Average column was categorized for better understanding.
 
 The Genre column contained comma-separated values and extra spaces, which were cleaned and converted into categorical data.
 
-* Process and Analysis:-
+Process and Analysis:-
 
 The data was cleaned and processed using Pandas and NumPy. Visual analysis was performed with Matplotlib and Seaborn to identify key trends.
 Some of the insights include:
@@ -31,7 +31,7 @@ Relationship between viewer ratings and popularity.
 
 Growth pattern of Netflix content over recent years.
 
-* Key Learnings:-
+Key Learnings:-
 
 Data cleaning and preprocessing
 
